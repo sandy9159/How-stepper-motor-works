@@ -112,7 +112,7 @@ As the name suggest this types of motors are the mixture of both parmanent magne
 Hence this motors are more practical and efficient to use. now days Hybrid synchronous stepper motors are widely famous.
 
 
-Before moving further in this tutorial, I would like to tell you something about PCB 
+At last I would like to tell you something about PCB 
 
 Yes PCB are the heart of the electronics based project usually we hesitate to try custom PCB and opt to homemade solutions
 
